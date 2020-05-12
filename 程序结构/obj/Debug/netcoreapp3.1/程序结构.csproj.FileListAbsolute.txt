@@ -1,0 +1,13 @@
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\bin\Debug\netcoreapp3.1\程序结构.exe
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\bin\Debug\netcoreapp3.1\程序结构.deps.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\bin\Debug\netcoreapp3.1\程序结构.runtimeconfig.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\bin\Debug\netcoreapp3.1\程序结构.runtimeconfig.dev.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\bin\Debug\netcoreapp3.1\程序结构.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\bin\Debug\netcoreapp3.1\程序结构.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\obj\Debug\netcoreapp3.1\程序结构.csprojAssemblyReference.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\obj\Debug\netcoreapp3.1\程序结构.csproj.CoreCompileInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\obj\Debug\netcoreapp3.1\程序结构.AssemblyInfoInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\obj\Debug\netcoreapp3.1\程序结构.AssemblyInfo.cs
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\obj\Debug\netcoreapp3.1\程序结构.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\obj\Debug\netcoreapp3.1\程序结构.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\程序结构\obj\Debug\netcoreapp3.1\程序结构.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\bin\Debug\netcoreapp3.1\1.exe
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\bin\Debug\netcoreapp3.1\1.deps.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\bin\Debug\netcoreapp3.1\1.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\bin\Debug\netcoreapp3.1\1.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\obj\Debug\netcoreapp3.1\1.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\obj\Debug\netcoreapp3.1\1.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\1\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\CSBaser.exe
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\CSBaser.deps.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\CSBaser.runtimeconfig.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\CSBaser.runtimeconfig.dev.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\CSBaser.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\CSBaser.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\CSBaser.csprojAssemblyReference.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\CSBaser.csproj.CoreCompileInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\CSBaser.AssemblyInfoInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\CSBaser.AssemblyInfo.cs
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\CSBaser.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\CSBaser.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\CSBaser.genruntimeconfig.cache

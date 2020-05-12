@@ -1,0 +1,13 @@
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\hellow.exe
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\hellow.deps.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\hellow.runtimeconfig.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\hellow.runtimeconfig.dev.json
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\hellow.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\bin\Debug\netcoreapp3.1\hellow.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\hellow.csprojAssemblyReference.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\hellow.csproj.CoreCompileInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\hellow.AssemblyInfoInputs.cache
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\hellow.AssemblyInfo.cs
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\hellow.dll
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\hellow.pdb
+D:\Difen\Project\C#\VScode\Basic\C_sharp-base\CSBaser\obj\Debug\netcoreapp3.1\hellow.genruntimeconfig.cache
